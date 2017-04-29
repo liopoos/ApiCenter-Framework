@@ -35,7 +35,7 @@ include 's.php';
     <div class="row">
         <div class="col-lg-3 col-md-6">
             <div class="list-group">
-                <a href="d.php?i=1" class="list-group-item list-blue">
+                <a href="!1" class="list-group-item list-blue">
                     <div class="col-xs-3 text-center">
                         <h1 class="list-group-item-heading">
                             <i class="icon-globe item-icon"></i>
@@ -50,7 +50,7 @@ include 's.php';
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="list-group">
-                <a href="d.php?i=2" class="list-group-item list-red">
+                <a href="!2" class="list-group-item list-red">
                     <div class="col-xs-3 text-center">
                         <h1 class="list-group-item-heading">
                             <i class="icon-image item-icon"></i>
@@ -65,7 +65,7 @@ include 's.php';
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="list-group">
-                <a href="d.php?i=3" class="list-group-item list-orange">
+                <a href="!3" class="list-group-item list-orange">
                     <div class="col-xs-3 text-center">
                         <h1 class="list-group-item-heading">
                             <i class="icon-location-2 item-icon"></i>
@@ -80,7 +80,7 @@ include 's.php';
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="list-group">
-                <a href="d.php?i=4" class="list-group-item list-green">
+                <a href="!4" class="list-group-item list-green">
                     <div class="col-xs-3 text-center">
                         <h1 class="list-group-item-heading">
                             <i class="icon-location3 item-icon"></i>
@@ -95,7 +95,7 @@ include 's.php';
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="list-group">
-                <a href="d.php?i=5" class="list-group-item list-red">
+                <a href="!5" class="list-group-item list-red">
                     <div class="col-xs-3 text-center">
                         <h1 class="list-group-item-heading">
                             <i class="icon-moon3 item-icon"></i>
