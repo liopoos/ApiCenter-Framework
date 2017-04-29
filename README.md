@@ -20,3 +20,12 @@ API Center集合了mayuko.cn站点下的所有api。在API Center，你可以选
 - jquery.min.js
 - icomoon.css
 - animate.css
+
+
+
+## Rewrite重写规则
+
+    location  / {
+      rewrite '^/!(.*)$' /d.php?i=$1; 
+    } 
+例如：api.mayuko.cn/!1重写到api.mayuko.cn/d.php?i=1
