@@ -23,12 +23,6 @@ include "s.php";
     <link rel="stylesheet" href="css/prism.css">
 </head>
 <body>
-<nav class="navbar navbar">
-    <div class="container-fluid">
-        <div class="navbar-header">
-        </div>
-    </div>
-</nav>
 <div class="jumbotron list-red">
     <div class="container">
 
@@ -285,7 +279,7 @@ print(z_data)
             </div>
         </div>
         <div class="col-md-3">
-            <ul class="list-unstyled nav-stacked" style="position: relative;padding-left: 20px " data-spy="affix">
+            <ul class="list-unstyled nav-stacked" style="padding-left:20px">
                 <li role="presentation" class="menu-nav"><a href="#casepage">实例效果</a></li>
                 <li role="presentation" class="menu-nav"><a href="#posturl">请求地址</a></li>
                 <li role="presentation" class="menu-nav"><a href="#postway">请求方式</a></li>
