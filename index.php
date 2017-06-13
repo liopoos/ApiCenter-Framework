@@ -238,7 +238,7 @@ include 's.php';
 </div>
 <footer id="manga-footer">
     <p>
-        <small>CpoyRigh 2016-2017 Power by <a href="http://mayuko.cn">mayuko.cn</a></small>
+        <small>&copy;Copyright 2016-2017 Powered by <a href="http://mayuko.cn">mayuko.cn</a></small>
     </p>
 </footer>
 <script src="js/jquery.min.js"></script>
